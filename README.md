@@ -1,10 +1,12 @@
 # Body-Performance-DIGILIANS
 
 Physical Performance Analysis (Machine Learning Project)
+
 🤖 Project Overview:
 This project applies machine learning techniques to analyze physical performance data and predict:
 Fitness classification (Classification task)
 Broad jump performance (Regression task)
+
 🎯 Objectives:
 Build predictive models for fitness performance
 Compare multiple machine learning algorithms
@@ -47,4 +49,5 @@ Can be applied in health, sports, and fitness industries
 
 🤝 Teamwork:
 This was a team-based project where each member contributed to different models and analysis stages, resulting in a comprehensive comparison study.
+
 TEAM MEMBRES:  Shahinaz Abdelawad, Safaa Samy, Samar Ahmed, Sally El-sayed, Shimaa Ibrahim.
